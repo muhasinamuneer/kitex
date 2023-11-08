@@ -1,0 +1,212 @@
+body{
+    margin: 0;
+}
+.header{
+    width:100%;
+    height: 309px;
+    background-image: url("https://kitex.annagroup.net/images/scoobee-innerbanner.jpg");
+    background-size: cover;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    padding-left: 55%;
+    padding-top: 3%;
+
+}
+.navbar li{
+    padding-left: 5%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 50%;
+    font-size: 13px;
+}
+.navbar ul:hover{
+
+    cursor: pointer;
+}
+.kitex {
+    height: 70px;
+    width: 416px;
+    margin-top: -5%;
+}
+
+.navcontent {
+    color: white;
+    padding-left: 43%;
+    font-size: 18px;
+}
+.second{
+    width: 100%;
+    height: 700px;
+    margin-top: 3%;
+}
+.scoobee_bags{
+    height: 568px;
+    width: 38%;
+    margin-left: 6%;
+    margin-top: 6%;
+}
+.heading h1{
+    padding-left: 46%;
+    margin-top: -30%;
+    font-weight: 100;
+
+}
+
+#hori{
+    height: 35%;
+    width: 50%;
+}
+.heading p{
+    padding-left: 46%;
+    font-size:130%;
+    letter-spacing:  1px;
+    line-height: 33px;
+    
+}
+
+.text{
+    letter-spacing:3px ;
+    line-height:32px ;
+    padding-left: 6%;
+    font-size: 16px;
+    font-family: "Playfair Display",serif;
+}
+.third{
+    height: 400PX;
+    width: 100%;
+    margin-top: 1%;
+   display:flex;
+   margin-left: 0%;
+   justify-content: center;
+}
+.student{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    width: 40%;
+    height:370px;
+    background-image: url("https://kitex.annagroup.net/images/scoobe1.jpg");
+    margin:1%;
+    
+
+}
+
+.students{
+height: 370px;
+width: 642px;
+background-image: url("https://kitex.annagroup.net/images/scoobe2.jpg");
+margin: 1%;
+}
+
+.student h2{
+    padding-left: 80px;
+    height: 20px;
+    width: 40%;
+    color: white;
+    margin: 0;
+}
+.student h4{
+    margin: 0;
+    padding-left: 80px;
+    color: white;
+    padding-bottom: 55px;
+
+}
+.students h2{
+    padding-left: 80px;
+    height: 20px;
+    width: 40%;
+    color: white;
+    margin: 0;
+    margin-top: 44%;
+}
+.students h4{
+    margin: 0;
+    padding-left: 80px;
+    color: white;
+    padding-bottom: 55px;
+}
+.fourth{
+ height: 55px;
+ width: 37%;
+ background-color: black;
+ margin-left: 7%;
+ margin-top: 3%;
+}
+.fourth h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 175%;
+    
+}
+.down{
+    height: 8vw;
+    width:20px;
+}
+.fifth{
+    height: 38vw;
+    background-color: black;
+}
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 65px 100px;
+}
+.address1{
+    display: flex;
+    gap: 30px;
+}
+.address h3{
+    color: white;
+}
+.address p{
+    color: antiquewhite;
+}
+.footer1-1{
+    width: 50%;
+    padding: 10px 0px;
+}
+.icons{
+    display: flex;
+    gap: 30px;
+   padding: 0;
+}
+.element p{
+    color: grey;
+}
+.element p:hover{
+    color: white;
+}
+.searchbox1{
+    width: 360px;
+    height: 30px;
+    border-color: white;
+    color: white;
+    background-color: black;
+}
+.button1{
+    color: white;
+    width: 100px;
+    height: 33px;
+    border-color: white;
+    background-color: black;
+}
+.hr{
+    color: grey;
+    height: 1mm;
+}
+.footer2{
+    display: flex;
+    color: grey;
+    justify-content: center;
+    align-items: center;
+}
+.footer2 p{
+    font-size: 15px;
+}
+.footer2 p:hover{
+    color: yellow;
+}
